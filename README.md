@@ -12,7 +12,7 @@ kkn-blog/
 │  ├─ js/main.js
 │  └─ img/ (taruh foto di sini)
 └─ pages/
-   ├─ proker1.html ... proker11.html
+   ├─ proker1.html ... proker17.html
 ```
 
 ## Cara Jalankan Lokal (Laragon)
